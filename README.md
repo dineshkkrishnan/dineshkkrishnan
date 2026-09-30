@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Dinesh Kumar Krishnan
 
-<!--
-**dineshkkrishnan/dineshkkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader with experience across Amazon, AWS, Cisco and UST, focused on SRE, platform engineering and cloud reliability.
 
-Here are some ideas to get you started:
+I’m interested in making operational work easier through clear service ownership, shared knowledge and practical automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of interest
+
+Site reliability and observability
+
+Cloud infrastructure and Kubernetes
+
+Release readiness and operational governance
+
+AI-assisted operations and MCP tooling
+
+What I’m building
+
+Independent projects exploring SRE operational analytics, platform tooling and release validation.
+
+Projects use synthetic data and local lab environments.

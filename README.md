@@ -1,21 +1,18 @@
-Hi, I'm Dinesh Kumar Krishnan
+# Dinesh Kumar Krishnan
 
-Engineering leader with experience across Amazon, AWS, Cisco and UST, focused on SRE, platform engineering and cloud reliability.
+Engineering leader focused on SRE, platform engineering and cloud reliability, with experience at Amazon, AWS, Cisco and UST.
 
-I’m interested in making operational work easier through clear service ownership, shared knowledge and practical automation.
+I’m interested in reducing operational toil through clearer service ownership, shared knowledge and practical automation.
 
-Areas of interest
+## Technical interests
+- Site reliability, observability and operational analytics
+- Cloud infrastructure, Kubernetes and data platforms
+- Release readiness and operational governance
+- AI-assisted operations and MCP tooling with human oversight
 
-Site reliability and observability
+## Portfolio direction
+Independent labs exploring SRE operational analytics, release validation and platform tooling. Examples use synthetic data and local environments.
 
-Cloud infrastructure and Kubernetes
+This portfolio is being developed; project maturity and limitations are documented in each repository.
 
-Release readiness and operational governance
-
-AI-assisted operations and MCP tooling
-
-What I’m building
-
-Independent projects exploring SRE operational analytics, platform tooling and release validation.
-
-Projects use synthetic data and local lab environments.
+[LinkedIn](https://www.linkedin.com/in/dinesh-krishnan-11211731/)

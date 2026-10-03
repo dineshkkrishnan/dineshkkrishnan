@@ -19,6 +19,10 @@ I’m interested in reducing operational toil through clearer service ownership,
 
 [Context-Aware Governance Lab](https://github.com/dineshkkrishnan/context-aware-governance-lab) — Rule-based access-policy sandbox using synthetic requests, explicit allow/review/deny decisions and hash-linked audit records, connected to my information-governance publication.
 
+[Agentic SRE Evaluation Lab](https://github.com/dineshkkrishnan/agentic-sre-evaluation-lab) — Evaluates synthetic incident recommendations against explicit diagnosis, action and evidence rubrics; includes a deterministic baseline and optional local Ollama adapter. Published examples are offline fixtures, not model benchmarks.
+
+[Platform MCP Control Plane](https://github.com/dineshkkrishnan/platform-mcp-control-plane) — Working MCP stdio server for a Redis lab, with process-configured roles, dry-run proposals, separate operator approval, stale-state checks and single-use execution.
+
 ## Selected publications
 
 - [SLO-Driven Self-Healing Systems for Healthcare IT: Control Loops, Error Budgets, and Observability-Guided Reliability](https://jisem-journal.com/index.php/journal/article/view/15256/7385) — Journal of Information Systems Engineering and Management, 2026.

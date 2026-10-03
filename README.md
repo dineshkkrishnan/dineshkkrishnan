@@ -15,6 +15,8 @@ I’m interested in reducing operational toil through clearer service ownership,
 [SRE Operations Analytics](https://github.com/dineshkkrishnan/sre-operations-analytics) — Python lab for ticket intake, completion, backlog ageing and resolution-time reporting, with synthetic data and automated tests.
 
 
+[SLO Control-Loop Simulator](https://github.com/dineshkkrishnan/sre-operations-analytics/blob/main/docs/slo-simulator.md) — Synthetic reliability lab exploring burn-rate decisions, cooldowns and bounded simulated actions, inspired by my SLO publication.
+
 ## Selected publications
 
 - [SLO-Driven Self-Healing Systems for Healthcare IT: Control Loops, Error Budgets, and Observability-Guided Reliability](https://jisem-journal.com/index.php/journal/article/view/15256/7385) — Journal of Information Systems Engineering and Management, 2026.

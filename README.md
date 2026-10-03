@@ -14,6 +14,15 @@ I’m interested in reducing operational toil through clearer service ownership,
 
 [SRE Operations Analytics](https://github.com/dineshkkrishnan/sre-operations-analytics) — Python lab for ticket intake, completion, backlog ageing and resolution-time reporting, with synthetic data and automated tests.
 
+
+## Selected publications
+
+- [SLO-Driven Self-Healing Systems for Healthcare IT: Control Loops, Error Budgets, and Observability-Guided Reliability](https://jisem-journal.com/index.php/journal/article/view/15256/7385) — Journal of Information Systems Engineering and Management, 2026.
+- [AI-Enabled Information Governance for Healthcare Productivity Systems: Addressing Limitations of Traditional Data Loss Prevention](https://computerfraudsecurity.com/index.php/journal/article/view/1099/792) — Computer Fraud and Security, 2026.
+- [Patient-Controlled, Consent-Based Health Record Exchange: Structural Preconditions And Overlay Architecture For Population-Scale Implementation](https://jicrcr.com/index.php/jicrcr/article/view/3801/3194) — Journal of International Crisis and Risk Communication Research, 2026.
+
+Research interests include SLO-driven reliability, information governance and consent-based health-record exchange.
+
 ## Portfolio direction
 Independent labs exploring SRE operational analytics, release validation and platform tooling. Examples use synthetic data and local environments.
 

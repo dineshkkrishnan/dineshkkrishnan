@@ -10,6 +10,10 @@ I’m interested in reducing operational toil through clearer service ownership,
 - Release readiness and operational governance
 - AI-assisted operations and MCP tooling with human oversight
 
+## Portfolio
+
+[SRE Operations Analytics](https://github.com/dineshkkrishnan/sre-operations-analytics) — Python lab for ticket intake, completion, backlog ageing and resolution-time reporting, with synthetic data and automated tests.
+
 ## Portfolio direction
 Independent labs exploring SRE operational analytics, release validation and platform tooling. Examples use synthetic data and local environments.
 

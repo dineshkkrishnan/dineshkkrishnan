@@ -12,6 +12,8 @@ I’m interested in reducing operational toil through clearer service ownership,
 
 ## Portfolio
 
+[SRE Knowledge & Backlog Engine](https://github.com/dineshkkrishnan/sre-knowledge-backlog-engine) — Synthetic operational lab connecting severity-aware triage, recurring-ticket discovery, knowledge gaps and reviewed runbook suggestions. Includes a local dashboard and source-linked closure capture; no claim of real dependency reduction.
+
 [SRE Operations Analytics](https://github.com/dineshkkrishnan/sre-operations-analytics) — Python lab for ticket intake, completion, backlog ageing and resolution-time reporting, with synthetic data and automated tests.
 
 

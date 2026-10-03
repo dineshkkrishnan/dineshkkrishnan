@@ -17,6 +17,8 @@ I’m interested in reducing operational toil through clearer service ownership,
 
 [SLO Control-Loop Simulator](https://github.com/dineshkkrishnan/sre-operations-analytics/blob/main/docs/slo-simulator.md) — Synthetic reliability lab exploring burn-rate decisions, cooldowns and bounded simulated actions, inspired by my SLO publication.
 
+[Context-Aware Governance Lab](https://github.com/dineshkkrishnan/context-aware-governance-lab) — Rule-based access-policy sandbox using synthetic requests, explicit allow/review/deny decisions and hash-linked audit records, connected to my information-governance publication.
+
 ## Selected publications
 
 - [SLO-Driven Self-Healing Systems for Healthcare IT: Control Loops, Error Budgets, and Observability-Guided Reliability](https://jisem-journal.com/index.php/journal/article/view/15256/7385) — Journal of Information Systems Engineering and Management, 2026.
